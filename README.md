@@ -9,6 +9,7 @@ This repository contains the Java programs I write as part of my daily learning 
 | Day | Program |
 |-----|---------|
 | Day 01 | Student Grade Calculator |
+| Day 02 | do-while loop practice |
 
 ## Topics Covered
 
